@@ -1,0 +1,11 @@
+Name: ubuntu-22.04-standard
+Version: 22.04-1
+Type: lxc
+OS: ubuntu-22.04
+Section: system
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Installed-Size: 517
+Infopage: https://pve.proxmox.com/wiki/Linux_Container#pct_supported_distributions
+Description: Ubuntu 22.04 Jammy (standard)
+ A small Ubuntu 22.04 Jammy Jellyfish system including all standard packages.
