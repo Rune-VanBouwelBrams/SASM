@@ -12,7 +12,7 @@ Unattended-Upgrade::Allowed-Origins {
 	// should also install from here by default.
 	"${distro_id}ESMApps:${distro_codename}-apps-security";
 	"${distro_id}ESM:${distro_codename}-infra-security";
-//	"${distro_id}:${distro_codename}-updates";
+	"${distro_id}:${distro_codename}-updates";
 //	"${distro_id}:${distro_codename}-proposed";
 //	"${distro_id}:${distro_codename}-backports";
 };
@@ -80,7 +80,7 @@ Unattended-Upgrade::DevRelease "auto";
 
 // Remove unused automatically installed kernel-related packages
 // (kernel images, kernel headers and kernel version locked tools).
-//Unattended-Upgrade::Remove-Unused-Kernel-Packages "true";
+Unattended-Upgrade::Remove-Unused-Kernel-Packages "true";
 
 // Do automatic removal of newly unused dependencies after the upgrade
 //Unattended-Upgrade::Remove-New-Unused-Dependencies "true";
