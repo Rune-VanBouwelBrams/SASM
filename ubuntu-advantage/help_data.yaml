@@ -1,3 +1,15 @@
+anbox-cloud:
+    help: |
+      Anbox Cloud lets you stream mobile apps securely, at any scale, to any
+      device, letting you focus on your apps. Run Android in system
+      containers on public or private clouds with ultra low streaming
+      latency. When the anbox-cloud service is enabled, by default, the
+      Appliance variant is enabled. Enabling this service allows
+      orchestration to provision a PPA with the Anbox Cloud resources. This
+      step also configures the Anbox Management Service (AMS) with the
+      necessary image server credentials. To learn more about Anbox Cloud,
+      see https://anbox-cloud.io
+
 cc-eal:
     help: |
       Common Criteria is an Information Technology Security Evaluation standard
@@ -49,6 +61,16 @@ fips-updates:
       fips-updates installs fips modules including all security patches
       for those modules that have been provided since their certification date.
       You can find out more at https://ubuntu.com/security/certifications#fips.
+
+landscape:
+  help: |
+    Landscape Client can be installed on this machine and enrolled in
+    Canonical's Landscape SaaS: https://landscape.canonical.com
+    or a self-hosted Landscape: https://ubuntu.com/landscape/install
+    Landscape allows you to manage many machines as easily as one,
+    with an intuitive dashboard and API interface for automation,
+    hardening, auditing, and more. Find out more about Landscape at
+    https://ubuntu.com/landscape
 
 livepatch:
     help: |
