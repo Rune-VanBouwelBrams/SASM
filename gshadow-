@@ -55,3 +55,4 @@ systemd-timesync:!::
 uuidd:!::
 tcpdump:!::
 check:!::
+incron:!::
