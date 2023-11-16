@@ -8,5 +8,5 @@
 
 zone "rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
-    file "/etc/bind/db.rune-vanbouwelbrams";
+    file "/etc/bind/zones/rune-vanbouwelbrams.sasm.uclllabs.be";
 };
