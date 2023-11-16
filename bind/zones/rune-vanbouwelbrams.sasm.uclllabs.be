@@ -11,6 +11,6 @@ $TTL 86400
 @   IN  NS  ns2.uclllabs.be
 @   IN  NS  ns.maxime-detollenaere.sasm.uclllabs.be
 
-ns.rune-vanbouwelbrams.sasm.uclllabs.be.  IN  A  193.191.176.138
-www.rune-vanbouwelbrams.sasm.uclllabs.be. IN  A  193.191.176.138
-test.rune-vanbouwelbrams.sasm.uclllabs.be. IN  A  193.191.177.254
+ns  IN  A  193.191.176.138
+www IN  A  193.191.176.138
+test IN  A  193.191.177.254
