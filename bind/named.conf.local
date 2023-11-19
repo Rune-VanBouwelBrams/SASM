@@ -8,5 +8,24 @@
 
 zone "rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
-    file "/etc/bind/zones/rune-vanbouwelbrams.sasm.uclllabs.be";
+    file "/etc/bind/db.rune-vanbouwelbrams.sasm.uclllabs.be";
+    notify yes;
+    allow-transfer { ns1.uclllabs.be; ns2.uclllabs.be; ns.maxime-detollenaere.sasm.uclllabs.be; };
+};
+
+zone "ns.maxime-detollenaere.sasm.uclllabs.be" {
+        type slave;
+        masters {193.191.176.50;};
+};
+
+acl ns.maxime-detollenaere.sasm.uclllabs.be{
+        193.191.176.50;
+};
+
+acl ns1.uclllabs.be{
+        193.191.176.254;
+};
+
+acl ns2.uclllabs.be{
+        193.191.177.4;
 };
