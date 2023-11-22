@@ -4,7 +4,7 @@
 ;
 $TTL    300
 @       IN      SOA     ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be.(
-			4023121549 ; Serial
+			4023121555 ; Serial
                             300         ; Refresh
                             300         ; Retry
                             300         ; Expire
@@ -21,4 +21,6 @@ ns      IN      A       193.191.176.138
 test    IN      A       193.191.177.254
 www1	IN	A	193.191.176.138
 www2	IN	A	193.191.176.138
-subzonejaew2o    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+secure	IN	A	193.191.176.138
+supersecure IN	A	193.191.176.138
+
