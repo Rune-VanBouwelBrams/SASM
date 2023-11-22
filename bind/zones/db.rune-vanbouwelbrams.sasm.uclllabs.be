@@ -4,7 +4,7 @@
 ;
 $TTL    300
 @       IN      SOA     ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be.(
-			4023121542 ; Serial
+			4023121549 ; Serial
                             300         ; Refresh
                             300         ; Retry
                             300         ; Expire
@@ -19,42 +19,6 @@ $TTL    300
 www     IN      A       193.191.176.138
 ns      IN      A       193.191.176.138
 test    IN      A       193.191.177.254
-
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonevah5mi    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonechaed2    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonevahd6n    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneich0re    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonedier7n    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneied5ga    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneyoht5o    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneaehoh3    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonenai8ch    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneseepo2    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneoht9oo    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneoyaub2    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneohj5ai    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneyag2la    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonezaig7i    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneich3vu    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonegayai6    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonega8fah    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneaex2ie    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneeim4xi    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonepaiv3e    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneouxei7    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonenei3ie    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonejio1cu    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonefein5k    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneaizie3    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonedei3xa    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneahqui4    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonefie3ah    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneahshu4    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonefohv3n    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonebah7yu    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonethahx5    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonejao5og    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneeeh3th    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneuw7ahn    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+www1	IN	A	193.191.176.138
+www2	IN	A	193.191.176.138
+subzonejaew2o    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
