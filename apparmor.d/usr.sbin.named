@@ -21,6 +21,8 @@ profile named /usr/sbin/named flags=(attach_disconnected) {
   /var/lib/bind/ rw,
   /var/cache/bind/** lrw,
   /var/cache/bind/ rw,
+  /etc/bind/** rw,
+  /etc/bind/ rw,
 
   # Database file used by allow-new-zones
   /var/cache/bind/_default.nzd-lock rwk,

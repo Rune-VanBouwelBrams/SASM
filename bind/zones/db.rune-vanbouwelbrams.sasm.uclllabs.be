@@ -4,23 +4,23 @@
 ;
 $TTL    300
 @       IN      SOA     ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be.(
-			4023121555 ; Serial
+			4023121565 ; Serial
                             300         ; Refresh
                             300         ; Retry
                             300         ; Expire
-			    300		; Minimum TTL
+                            300         ; Minimum TTL
 )
 
 @       IN      NS      ns.rune-vanbouwelbrams.sasm.uclllabs.be.
         IN      NS      ns1.uclllabs.be.
         IN      NS      ns2.uclllabs.be.
-	IN	NS	ns.eva-rommens.sasm.uclllabs.be.
+        IN      NS      ns.eva-rommens.sasm.uclllabs.be.
 
 www     IN      A       193.191.176.138
 ns      IN      A       193.191.176.138
 test    IN      A       193.191.177.254
-www1	IN	A	193.191.176.138
-www2	IN	A	193.191.176.138
+www1    IN      A       193.191.176.138
+www2    IN      A       193.191.176.138
 secure	IN	A	193.191.176.138
 supersecure IN	A	193.191.176.138
-
+subzonebae4ei    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.

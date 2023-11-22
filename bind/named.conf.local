@@ -20,3 +20,15 @@ zone "ns.eva-rommens.sasm.uclllabs.be" {
         masters {193.191.176.115;};
 };
 
+zone "subzoneetoh8k.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneetoh8k.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecei7zu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecei7zu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonebae4ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonebae4ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
