@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Check if the user is not root or running without sudo rights
+if [[ $EUID -ne 0 || "$SUDO_USER" != "check" ]]; then
+    echo "Error: This script can only be run by 'check' with sudo rights."
+    exit 1
+fi
+
+url="/var/www/html/${1}"
+if [ -z "$1" ]; then
+        echo "Must provide a domain"
+        exit 1  # Exit with an error code
+else
+        if find /etc/bind/zones/ -name "$1" ; then
+                mkdir -p "$url"
+                echo "welcome ${1}" >> "$url/index.html"
+                echo "<VirtualHost *:80>
+        ServerName $1
+        DocumentRoot $url
+        CustomLog /var/log/apache2/$1.log combined
+</VirtualHost>" >> /etc/apache2/sites-available/${1}.conf
+                touch "/var/log/apache2/${1}.log"
+        else
+                echo "Must provide a valid domain"
+                exit 1
+        fi
+fi
+
+sudo a2ensite "${1}.conf"
+sudo systemctl restart apache2
