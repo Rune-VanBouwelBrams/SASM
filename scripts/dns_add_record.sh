@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo $1
 # Check if it's executed as root
 if [ "$EUID" -ne 0 ]
     then echo "Please run as root."

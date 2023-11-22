@@ -21,4 +21,15 @@ options {
 	dnssec-validation auto;
 
 	listen-on-v6 { any; };
+
+	// hide version number from clients for security reasons.
+     	version "not currently available";
+
+   	recursion no;
+
+     	// enable the query log
+     	querylog yes;
+
+     	// disallow zone transfer
+     	allow-transfer { none; };	
 };

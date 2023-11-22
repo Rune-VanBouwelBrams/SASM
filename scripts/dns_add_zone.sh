@@ -7,7 +7,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 # Get the old serial number
-oldSerial=$(awk '/Serial/ {print $1}' /etc/bind/zones/db.rune-vabouwelbrams.sasm.uclllabs.be)
+oldSerial=$(awk '/Serial/ {print $1}' /etc/bind/zones/db.rune-vanbouwelbrams.sasm.uclllabs.be)
 newSerial=$((oldSerial + 1)) 
 
 # Add NS record for the subzone to the main zone
