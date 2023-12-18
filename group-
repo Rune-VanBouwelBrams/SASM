@@ -61,3 +61,4 @@ bind:x:120:
 mysql:x:121:
 dovecot:x:122:
 dovenull:x:123:
+ftp:x:124:

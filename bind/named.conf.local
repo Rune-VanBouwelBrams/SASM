@@ -27,3 +27,7 @@ zone "subzoneiek2ph.rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
     file "/etc/bind/zones/db.subzoneiek2ph.rune-vanbouwelbrams.sasm.uclllabs.be";
 };
+zone "subzoneiu0ooc.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiu0ooc.rune-vanbouwelbrams.sasm.uclllabs.be";
+};

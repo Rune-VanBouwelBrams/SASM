@@ -61,3 +61,4 @@ bind:!::
 mysql:!::
 dovecot:!::
 dovenull:!::
+ftp:!::
