@@ -32,4 +32,6 @@ options {
 
      	// disallow zone transfer
      	allow-transfer { none; };	
+
+	key-directory "/etc/bind/keys";
 };
