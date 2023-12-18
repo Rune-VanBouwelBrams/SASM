@@ -4,7 +4,7 @@
 ;
 $TTL    300
 @       IN      SOA     ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be.(
-			4023121940 ; Serial
+			4023121941 ; Serial
                             300         ; Refresh
                             300         ; Retry
                             300         ; Expire
@@ -15,6 +15,7 @@ $TTL    300
         IN      NS      ns1.uclllabs.be.
         IN      NS      ns2.uclllabs.be.
         IN      NS      ns.eva-rommens.sasm.uclllabs.be.
+	IN	MX	10 mx.rune-vanbouwelbrams.sasm.uclllabs.be
 
 www     IN      A       193.191.176.138
 ns      IN      A       193.191.176.138
@@ -24,16 +25,9 @@ www2    IN      A       193.191.176.138
 secure	IN	A	193.191.176.138
 supersecure IN	A	193.191.176.138
 @	IN	A	193.191.176.138
+mx	IN	A	193.191.176.138
 
 @	IN	AAAA	2001:6a8:2880:a020::8A
 ns	IN	AAAA	2001:6a8:2880:a020::8A
-subzoneis0ohk    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzonenohth9    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneohx1th    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneit4ohk    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneoot6qu    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneoote0o    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneeef5ro    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneaiph4a    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneeu4chi    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneaek4oo    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+mx	IN	AAAA	2001:6a8:2880:a020::8A
+
