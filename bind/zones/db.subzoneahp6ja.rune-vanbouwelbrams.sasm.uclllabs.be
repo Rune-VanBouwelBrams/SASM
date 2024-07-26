@@ -1,5 +1,5 @@
 $TTL 300
-@       IN      SOA     ns.subzoneiek2ph.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be. (
+@       IN      SOA     ns.subzoneahp6ja.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be. (
 			2; Serial
                         300              ; Refresh
                         300              ; Retry
@@ -9,4 +9,4 @@ $TTL 300
                 IN      NS      ns.rune-vanbouwelbrams.sasm.uclllabs.be.
                 IN      A       193.191.176.138
 ns              IN      A       193.191.176.138
-pi9ahj        IN      A       193.191.176.138
+shoo3k        IN      A       193.191.176.138

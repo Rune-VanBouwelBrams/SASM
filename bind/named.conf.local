@@ -18,16 +18,8 @@ zone "rune-vanbouwelbrams.sasm.uclllabs.be" {
         serial-update-method increment;
 };
 
-zone "ns.eva-rommens.sasm.uclllabs.be" {
+zone "ns.marie-bastiaens.sasm.uclllabs.be" {
         type slave;
-        masters {193.191.176.115;};
+        masters {193.191.176.12;};
 };
 
-zone "subzoneiek2ph.rune-vanbouwelbrams.sasm.uclllabs.be" {
-    type master;
-    file "/etc/bind/zones/db.subzoneiek2ph.rune-vanbouwelbrams.sasm.uclllabs.be";
-};
-zone "subzoneiu0ooc.rune-vanbouwelbrams.sasm.uclllabs.be" {
-    type master;
-    file "/etc/bind/zones/db.subzoneiu0ooc.rune-vanbouwelbrams.sasm.uclllabs.be";
-};
