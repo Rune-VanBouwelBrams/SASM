@@ -23,3 +23,7 @@ zone "ns.marie-bastiaens.sasm.uclllabs.be" {
         masters {193.191.176.12;};
 };
 
+zone "subzoneaefu0o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaefu0o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};

@@ -28,3 +28,4 @@ www1			A	193.191.176.138
 www2			A	193.191.176.138
 tweakers		A	193.191.176.138
 subzonewei1pe    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+subzoneaefu0o    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.

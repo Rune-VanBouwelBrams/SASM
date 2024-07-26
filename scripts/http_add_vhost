@@ -28,3 +28,4 @@ fi
 
 sudo a2ensite "${1}.conf"
 sudo systemctl restart apache2
+

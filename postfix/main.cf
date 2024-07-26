@@ -1,6 +1,6 @@
 # See /usr/share/postfix/main.cf.dist for a commented, more complete version
 myhostname = mx.rune-vanbouwelbrams.sasm.uclllabs.be
-mydomain = mx.rune-vanbouwelbrams.sasm.uclllabs.be
+mydomain = rune-vanbouwelbrams.sasm.uclllabs.be
 myorigin = rune-vanbouwelbrams.sasm.uclllabs.be
 
 smtpd_banner = $myhostname ESMTP $mail_name (Debian/GNU)
@@ -16,9 +16,10 @@ alias_maps = hash:/etc/aliases
 alias_database = hash:/etc/aliases
 mydestination = $myhostname, localhost.$mydomain, localhost
 relayhost = 
-mynetworks = 127.0.0.0/8 
+mynetworks = 127.0.0.0/8, 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16 
 inet_interfaces = all
 recipient_delimiter = +
+mail_spool_directory = /var/vmail/
 
 compatibility_level = 2
 

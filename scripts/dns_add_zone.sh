@@ -29,6 +29,8 @@ cat <<EOF > /etc/bind/zones/db.$1.rune-vanbouwelbrams.sasm.uclllabs.be
                 IN      NS      ns.rune-vanbouwelbrams.sasm.uclllabs.be.
                 IN      A       193.191.176.138
 ns              IN      A       193.191.176.138
+mx		IN	A	193.191.176.138
+		IN	MX	mx.rune-vanbouwelbrams.sasm.uclllabs.be.
 EOF
 
 
