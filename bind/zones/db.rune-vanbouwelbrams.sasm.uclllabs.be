@@ -1,7 +1,7 @@
 $ORIGIN .
 $TTL 300	; 5 minutes
 rune-vanbouwelbrams.sasm.uclllabs.be IN	SOA ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be. (
-				4023122752 ; serial
+				4023122754 ; serial
 				300        ; refresh (5 minutes)
 				300        ; retry (5 minutes)
 				300        ; expire (5 minutes)
@@ -12,10 +12,10 @@ rune-vanbouwelbrams.sasm.uclllabs.be IN	SOA ns.rune-vanbouwelbrams.sasm.uclllabs
 			NS	ns1.uclllabs.be.
 			NS	ns2.uclllabs.be.
 			A	193.191.176.138
-			MX	10 mx.rune-vanbouwelbrams.sasm.uclllabs.be.rune-vanbouwelbrams.sasm.uclllabs.be.
+rune-vanbouwelbrams.sasm.uclllabs.be	IN MX	10 mx.rune-vanbouwelbrams.sasm.uclllabs.be.
 			AAAA	2001:6a8:2880:a020::8a
 $ORIGIN rune-vanbouwelbrams.sasm.uclllabs.be.
-mx			A	193.191.176.138
+mx.rune-vanbouwelbrams.sasm.uclllabs.be	IN A	193.191.176.138
 			AAAA	2001:6a8:2880:a020::8a
 mystery2		A	193.191.176.138
 ns			A	193.191.176.138
@@ -311,3 +311,4 @@ subzonezoh4lo    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzonesoj5ai    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzonedohr7u    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzoneaim6qu    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+subzonephei9b    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
