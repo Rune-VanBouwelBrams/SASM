@@ -33,7 +33,7 @@ virtual_alias_maps = hash:/etc/postfix/virtual
 virtual_mailbox_base = /var/vmail
  
 # Specify the format for virtual mailbox paths
-virtual_mailbox_maps = hash:/etc/postfix/virtual_mailbox
+virtual_mailbox_maps = hash:/etc/postfix/vmailbox
  
 # Enable maildir format for virtual mailboxes
 home_mailbox = Maildir/
