@@ -54,7 +54,12 @@ profile tcpdump /usr/bin/tcpdump {
 
   # for -r, -F and -w
   /**.[pP][cC][aA][pP] rw,
+  /**.[pP][cC][aA][pP][nN][gG] rw,
   /**.[cC][aA][pP] rw,
+  # -W adds a numerical suffix
+  /**.[pP][cC][aA][pP][0-9]* rw,
+  /**.[pP][cC][aA][pP][nN][gG][0-9]* rw,
+  /**.[cC][aA][pP][0-9]* rw,
 
   # for convenience with -r (ie, read pcap files from other sources)
   /var/log/snort/*log* r,

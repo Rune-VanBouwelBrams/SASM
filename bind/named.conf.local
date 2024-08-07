@@ -27,3 +27,1131 @@ zone "subzoneaefu0o.rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
     file "/etc/bind/zones/db.subzoneaefu0o.rune-vanbouwelbrams.sasm.uclllabs.be";
 };
+zone "subzonesai9bo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesai9bo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezi4vos.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezi4vos.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohbah6.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohbah6.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaem6wu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaem6wu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiav9ep.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiav9ep.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexucha0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexucha0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneing0ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneing0ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonebiv4ga.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonebiv4ga.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneangaa9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneangaa9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneahb2oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneahb2oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneieg9ce.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneieg9ce.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeeyo7o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeeyo7o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeth6gi.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeth6gi.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonephah5i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonephah5i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezevei5.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezevei5.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneuh6rai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneuh6rai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneetohh3.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneetohh3.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedei1au.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedei1au.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneochie5.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneochie5.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethegh0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethegh0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohch8t.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohch8t.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeifi5s.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeifi5s.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeegid7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeegid7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneet2ego.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneet2ego.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneko4wie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneko4wie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonechi4in.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonechi4in.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneyooc4p.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneyooc4p.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoy6yex.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoy6yex.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneuamoh1.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneuamoh1.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneied6ch.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneied6ch.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegeek1w.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegeek1w.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneooj8no.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneooj8no.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethee8o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethee8o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneyiu0us.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneyiu0us.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedai6ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedai6ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonerah0ie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonerah0ie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneveej5g.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneveej5g.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneee9aht.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneee9aht.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneooji5z.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneooji5z.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonequaix5.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonequaix5.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonerie7xa.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonerie7xa.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneshei0w.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneshei0w.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneauk3ae.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneauk3ae.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewuo8ao.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewuo8ao.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneou6aef.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneou6aef.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneayoh1i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneayoh1i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehael8e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehael8e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeuvei0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeuvei0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonechai7x.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonechai7x.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonemo3nel.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonemo3nel.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiis9ee.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiis9ee.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneera8ee.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneera8ee.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezas2qu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezas2qu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneur9ail.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneur9ail.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonevaim8t.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonevaim8t.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneahb5sh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneahb5sh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiu2ohw.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiu2ohw.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneuv4ohm.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneuv4ohm.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonene7ce3.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonene7ce3.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoof4eb.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoof4eb.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonefiu3sh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonefiu3sh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneziew9a.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneziew9a.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneozooj9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneozooj9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeetho9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeetho9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoov2ya.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoov2ya.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonekee2pa.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonekee2pa.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaesi7i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaesi7i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedoo5vo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedoo5vo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiet4ah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiet4ah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaenai3.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaenai3.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedahqu9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedahqu9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonero9ita.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonero9ita.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiech5c.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiech5c.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezae6oo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezae6oo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeim3we.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeim3we.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneooj2ef.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneooj2ef.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonero6pae.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonero6pae.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneshae5i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneshae5i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesie7wu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesie7wu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehohth7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehohth7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonequok8k.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonequok8k.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonepim8ev.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonepim8ev.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezaep6a.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezaep6a.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneahbie4.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneahbie4.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneomi7ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneomi7ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonenuinu1.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonenuinu1.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneahp2ji.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneahp2ji.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiegh6u.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiegh6u.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeuj3ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeuj3ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneye6ain.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneye6ain.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexoh8ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexoh8ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeesh7t.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeesh7t.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneuj7ieh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneuj7ieh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethi9ah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethi9ah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneueyah2.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneueyah2.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneik1aik.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneik1aik.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonerie0ok.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonerie0ok.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneookep0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneookep0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewoov1i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewoov1i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetheu6o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetheu6o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneroiw4o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneroiw4o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetohs6v.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetohs6v.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiemie9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiemie9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonerah5mi.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonerah5mi.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneooz5ga.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneooz5ga.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehaiz1u.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehaiz1u.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonefo2ohh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonefo2ohh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonenaib9o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonenaib9o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeg3ooj.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeg3ooj.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetoo9ch.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetoo9ch.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehei2ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehei2ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneuag0ah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneuag0ah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneshah8i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneshah8i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeezie5.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeezie5.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeho1ta.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeho1ta.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonemah2ka.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonemah2ka.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneraiwu8.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneraiwu8.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecah3wo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecah3wo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesoo1wa.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesoo1wa.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecah0ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecah0ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexohch2.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexohch2.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecheix4.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecheix4.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoo0lae.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoo0lae.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewu0oob.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewu0oob.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonekouth0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonekouth0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehoo9ah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehoo9ah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneta5pho.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneta5pho.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethoe3h.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethoe3h.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegae6ve.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegae6ve.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaiga3t.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaiga3t.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneejeeh7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneejeeh7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneseik6w.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneseik6w.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohd3cu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohd3cu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiig3oo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiig3oo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedai5ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedai5ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaiy7ae.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaiy7ae.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeesh5k.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeesh5k.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexie6ph.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexie6ph.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeiz2ae.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeiz2ae.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonene5hah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonene5hah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaefoh0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaefoh0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexae8ka.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexae8ka.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneootho1.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneootho1.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoori9v.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoori9v.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecohk4r.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecohk4r.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaeph0a.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaeph0a.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaeboh8.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaeboh8.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneauz3ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneauz3ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiel9pe.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiel9pe.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaph9mo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaph9mo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonear7jie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonear7jie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedu6sae.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedu6sae.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneea5she.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneea5she.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonebee1ah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonebee1ah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonevuch5e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonevuch5e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegoo2os.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegoo2os.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonekae8ug.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonekae8ug.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonequahx7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonequahx7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoob9sa.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoob9sa.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonephie6j.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonephie6j.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesae6ue.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesae6ue.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoosh0l.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoosh0l.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegoo7oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegoo7oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiex8ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiex8ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneveo8oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneveo8oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneok6ahx.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneok6ahx.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonequi2nu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonequi2nu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonerahl4n.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonerahl4n.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegoo1oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegoo1oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesaep2j.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesaep2j.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonelee5oo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonelee5oo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedoon6e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedoon6e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegee5eu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegee5eu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeec6oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeec6oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeema7e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeema7e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewis1xi.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewis1xi.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneyohng5.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneyohng5.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoth0wi.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoth0wi.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaeyop0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaeyop0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegae1be.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegae1be.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonepho1ok.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonepho1ok.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoow5xu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoow5xu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonekieng1.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonekieng1.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonelooy8y.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonelooy8y.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeich2c.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeich2c.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeech0u.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeech0u.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetho5oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetho5oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeivoo6.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeivoo6.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecie9or.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecie9or.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeene1e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeene1e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegoofa4.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegoofa4.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezau9ee.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezau9ee.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonenieth0.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonenieth0.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezau4ie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezau4ie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeez0wo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeez0wo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohyae9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohyae9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonecohv4s.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonecohv4s.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexi5yoo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexi5yoo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaiw4ce.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaiw4ce.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohl0oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohl0oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewoo2sh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewoo2sh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexahs1o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexahs1o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonejeur5a.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonejeur5a.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethe1eo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethe1eo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewa0ide.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewa0ide.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeesh8m.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeesh8m.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonevaip6o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonevaip6o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonephah7e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonephah7e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehoov9f.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehoov9f.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaeth3x.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaeth3x.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeegh4o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeegh4o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezoh3ta.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezoh3ta.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneleex3a.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneleex3a.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeer9ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeer9ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneshah8v.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneshah8v.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohl3xa.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohl3xa.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohhog7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohhog7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneru8ieh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneru8ieh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeo2eki.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeo2eki.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneun6roh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneun6roh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonefie2ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonefie2ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonejeilo9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonejeilo9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaiz6yo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaiz6yo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaiz1pe.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaiz1pe.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewooh3f.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewooh3f.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneag6uig.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneag6uig.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneetei9y.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneetei9y.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeu5aep.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeu5aep.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaecuu5.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaecuu5.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneohbee1.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneohbee1.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegu4id7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegu4id7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneru8lo6.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneru8lo6.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneais4ie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneais4ie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonese1sha.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonese1sha.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonechu7mu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonechu7mu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonefahn7z.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonefahn7z.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoobo6c.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoobo6c.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehahm0h.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehahm0h.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeihag3.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeihag3.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonenoo3io.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonenoo3io.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetael7f.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetael7f.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonejai7va.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonejai7va.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneahbo9e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneahbo9e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonepa6iop.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonepa6iop.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneche1ie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneche1ie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaech8e.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaech8e.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneceeth7.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneceeth7.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneiegh2a.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneiegh2a.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneier7ta.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneier7ta.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaub4bu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaub4bu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezo6gah.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezo6gah.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneutet2d.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneutet2d.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegeefi6.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegeefi6.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetah3ia.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetah3ia.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneail2ei.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneail2ei.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonexurur4.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonexurur4.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethae9f.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethae9f.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneufee3i.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneufee3i.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneyath2z.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneyath2z.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneeet8ee.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneeet8ee.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesoht8p.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesoht8p.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegoo0yo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegoo0yo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneael7xi.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneael7xi.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonewe8tie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonewe8tie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneyu2mii.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneyu2mii.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonegei6ee.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonegei6ee.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneshe3be.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneshe3be.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneoogh6k.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneoogh6k.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaequ0o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaequ0o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonefooph9.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonefooph9.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneub2tho.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneub2tho.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonepahx4o.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonepahx4o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonethuu5l.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonethuu5l.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonenie7ju.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonenie7ju.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneloo7oh.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneloo7oh.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonepa3hie.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonepa3hie.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonetei4th.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonetei4th.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonehah3wu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonehah3wu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonezoh4lo.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonezoh4lo.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesoj5ai.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesoj5ai.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonedohr7u.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonedohr7u.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzoneaim6qu.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzoneaim6qu.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
