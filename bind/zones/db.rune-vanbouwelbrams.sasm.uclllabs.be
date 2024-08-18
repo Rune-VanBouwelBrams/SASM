@@ -1,7 +1,6 @@
-$ORIGIN .
-$TTL 300        ; 5 minutes
+$TTL 3600        ; 5 minutes
 @ IN    SOA ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be. (
-                                4023123300 ; serial
+                                4023123304 ; serial
                                 300        ; refresh (5 minutes)
                                 300        ; retry (5 minutes)
                                 300        ; expire (5 minutes)
