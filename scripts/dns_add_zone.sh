@@ -30,7 +30,7 @@ cat <<EOF > /etc/bind/zones/db.$1.rune-vanbouwelbrams.sasm.uclllabs.be
 @                IN      A       193.191.176.138
 ns              IN      A       193.191.176.138
 mx		IN	A	193.191.176.138
-		IN	MX	mx.rune-vanbouwelbrams.sasm.uclllabs.be.
+@		IN	MX	mx.rune-vanbouwelbrams.sasm.uclllabs.be.
 EOF
 
 
@@ -44,3 +44,5 @@ echo "};" >> /etc/bind/named.conf.local
 systemctl restart bind9
 
 echo "Subzone $1.rune-vanbouwelbrams.sasm.uclllabs.be has been added successfully."
+
+systemctl restart bind9
