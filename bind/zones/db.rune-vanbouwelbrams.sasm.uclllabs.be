@@ -1,6 +1,6 @@
 $TTL 3600        ; 5 minutes
 @ IN    SOA ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be. (
-                                4023123325 ; serial
+                                4023123326 ; serial
                                 300        ; refresh (5 minutes)
                                 300        ; retry (5 minutes)
                                 300        ; expire (5 minutes)
@@ -28,3 +28,4 @@ www2                    IN A       193.191.176.138
 subzonequae7o  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzonesodee6  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzoneeinoo4  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+subzonemekai6  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
