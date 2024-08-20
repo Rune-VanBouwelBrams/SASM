@@ -42,3 +42,7 @@ zone "subzoneeinoo4.rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
     file "/etc/bind/zones/db.subzoneeinoo4.rune-vanbouwelbrams.sasm.uclllabs.be";
 };
+zone "subzonemekai6.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonemekai6.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
