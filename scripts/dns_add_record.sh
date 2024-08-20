@@ -1,16 +1,6 @@
 #!/bin/bash
 echo $1
 
-# Print usage information
-print_usage() {
-    echo "Usage: $0 -t <record_type> <record_name> <record_value> <zone>"
-    echo "  -t: Record type (A, MX, CNAME)"
-    echo "  <record_name>: Name of the record"
-    echo "  <record_value>: Value for the record"
-    echo "  <zone>: Zone file name (e.g., foobar5.rune-vanbouwelbrams.sasm.uclllabs.be)"
-    exit 1
-}
-
 # Check if it's executed as root
 if [ "$EUID" -ne 0 ]; then
     echo "Please run as root."
@@ -49,6 +39,8 @@ shift $((OPTIND - 1))
 if [ "$#" -ne 3 ]; then
     print_usage
 fi
+
+type=A
 
 # Get the arguments
 record_name="$1"
