@@ -1,6 +1,6 @@
 $TTL 3600        ; 5 minutes
 @ IN    SOA ns.rune-vanbouwelbrams.sasm.uclllabs.be. admin.rune-vanbouwelbrams.sasm.uclllabs.be. (
-                                4023123323 ; serial
+                                4023123325 ; serial
                                 300        ; refresh (5 minutes)
                                 300        ; retry (5 minutes)
                                 300        ; expire (5 minutes)
@@ -25,40 +25,6 @@ tweakers                IN A       193.191.176.138
 www                     IN A       193.191.176.138
 www1                    IN A       193.191.176.138
 www2                    IN A       193.191.176.138
-subzoneii8ooz    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneeen2og    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-subzoneeemu6o    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-foobar    IN    NS    ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
-mail IN MX 10 99.88.77.66.
-99.88.77.66. IN A 99.88.77.66
-  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzonequae7o  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
 subzonesodee6  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
+subzoneeinoo4  IN  NS  ns.rune-vanbouwelbrams.sasm.uclllabs.be.
