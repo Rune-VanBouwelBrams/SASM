@@ -36,7 +36,7 @@ echo "zone \"$subzone.$main_zone\" {
 subzone_ns="ns.rune-vanbouwelbrams.sasm.uclllabs.be."
 main_zonefile="/etc/bind/zones/db.rune-vanbouwelbrams.sasm.uclllabs.be"
  
-echo "$SUBZONE  IN  NS  $subzone_ns" >> "$main_zonefile"
+echo "$subzone  IN  NS  $subzone_ns" >> "$main_zonefile"
  
 #oldserial=$(awk -F';' '/Serial/ {print $1}' "$main_zonefile" | awk '{print $1}')
 #echo "$oldserial"
@@ -60,7 +60,7 @@ else
     exit 1
 fi
 
-sed -i "s/$oldserial/$newserial/" "$main_zonefile"
+#sed -i "s/$oldserial/$newserial/" "$main_zonefile"
 echo "Subzone $1.rune-vanbouwelbrams.sasm.uclllabs.be has been added successfully."
 
 systemctl restart bind9
