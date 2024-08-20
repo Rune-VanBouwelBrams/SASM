@@ -30,10 +30,6 @@ acl ns1.uclllabs.be{
 acl ns2.uclllabs.be{
         193.191.177.4;
 };
-zone "foobar5.rune-vanbouwelbrams.sasm.uclllabs.be" {
-    type master;
-    file "/etc/bind/zones/db.foobar5.rune-vanbouwelbrams.sasm.uclllabs.be";
-};
 zone "subzonequae7o.rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
     file "/etc/bind/zones/db.subzonequae7o.rune-vanbouwelbrams.sasm.uclllabs.be";
