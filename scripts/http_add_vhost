@@ -28,3 +28,5 @@ else
                 exit 1
         fi
 fi
+a2ensite "${1}.conf"
+sudo systemctl restart apache2
