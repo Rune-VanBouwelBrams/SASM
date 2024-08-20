@@ -38,12 +38,6 @@ main_zonefile="/etc/bind/zones/db.rune-vanbouwelbrams.sasm.uclllabs.be"
  
 echo "$subzone  IN  NS  $subzone_ns" >> "$main_zonefile"
  
-#oldserial=$(awk -F';' '/Serial/ {print $1}' "$main_zonefile" | awk '{print $1}')
-#echo "$oldserial"
-#echo "Old Serial: $oldserial" 
-#newserial=$((oldserial + 1))
-#echo "$newserial" 
-
 # Extract the old serial number
 oldserial=$(awk -F';' '/serial/ {print $1}' "$main_zonefile" | awk '{print $1}')
 
