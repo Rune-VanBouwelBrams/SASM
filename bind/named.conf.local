@@ -34,7 +34,11 @@ zone "foobar5.rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
     file "/etc/bind/zones/db.foobar5.rune-vanbouwelbrams.sasm.uclllabs.be";
 };
-zone "www.rune-vanbouwelbrams.sasm.uclllabs.be" {
+zone "subzonequae7o.rune-vanbouwelbrams.sasm.uclllabs.be" {
     type master;
-    file "/etc/bind/zones/db.www.rune-vanbouwelbrams.sasm.uclllabs.be";
+    file "/etc/bind/zones/db.subzonequae7o.rune-vanbouwelbrams.sasm.uclllabs.be";
+};
+zone "subzonesodee6.rune-vanbouwelbrams.sasm.uclllabs.be" {
+    type master;
+    file "/etc/bind/zones/db.subzonesodee6.rune-vanbouwelbrams.sasm.uclllabs.be";
 };
